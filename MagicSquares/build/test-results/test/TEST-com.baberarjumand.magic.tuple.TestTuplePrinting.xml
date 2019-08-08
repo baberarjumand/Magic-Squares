@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.baberarjumand.magic.tuple.TestTuplePrinting" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-08T12:02:36" hostname="DESKTOP-BabzAW" time="0.006">
+  <properties/>
+  <testcase name="displayPrintDelimiters" classname="com.baberarjumand.magic.tuple.TestTuplePrinting" time="0.006"/>
+  <system-out><![CDATA[Tuple:			(0, 1, 2)
+Contents:		{3, 4, 5}
+Differencess:	{3, 3, 3}
+Coordinates:	[3, 4, 5]
+Offsets:		<3, 3, 3>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

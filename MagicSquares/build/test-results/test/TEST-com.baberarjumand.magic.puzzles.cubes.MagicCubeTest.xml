@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.baberarjumand.magic.puzzles.cubes.MagicCubeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-08T12:02:36" hostname="DESKTOP-BabzAW" time="0.006">
+  <properties/>
+  <testcase name="testPrintableMagicSquare" classname="com.baberarjumand.magic.puzzles.cubes.MagicCubeTest" time="0.004"/>
+  <testcase name="testInstantiations" classname="com.baberarjumand.magic.puzzles.cubes.MagicCubeTest" time="0.002"/>
+  <system-out><![CDATA[[0, 2]		{0, 1}		3
+[0, 1]		{2, 0}		2
+[1, 2]		{2, 2}		8
+[0, 0]		{1, 2}		7
+[1, 1]		{1, 1}		4
+[2, 2]		{1, 0}		1
+[1, 0]		{0, 0}		0
+[2, 1]		{0, 2}		6
+[2, 0]		{2, 1}		5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
