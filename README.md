@@ -1,4 +1,4 @@
-A Java program to generate Magic Squares with a focus on Test-Driven Development techniques.
+A Java program to generate Magic Squares of n-dimensions with a focus on Test-Driven Development techniques.
 
 Tuples are used to create multidimensional hypercubes.<br>
 Length of tuple determines the dimensions of generated hypercubes.<br>
